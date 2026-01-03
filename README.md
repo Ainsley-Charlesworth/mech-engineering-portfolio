@@ -4,4 +4,8 @@ Hi! I'm a first-year Mechanical Engineering student @ McGill interested in desig
 
 ## Projects
 - CAD Model: 
-- Design Team: 
+- Design Team: Concrete Canoe 
+  
+## Skills
+- CAD  
+- MATLAB
